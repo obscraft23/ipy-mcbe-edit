@@ -12,7 +12,7 @@ Google Colabでの実行にはGoogleアカウントが必要です。<br>
 <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/obscraft23/ipy-mcbe-edit/blob/master/mcberepair_wrapper.ipynb) (English)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() (日本語)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/obscraft23/ipy-mcbe-edit/blob/master/mcberepair_wrapper_jp.ipynb) (日本語)
 
 ## Demo pictures
 
