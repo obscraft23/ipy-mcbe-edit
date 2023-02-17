@@ -1,3 +1,9 @@
 # ipy-mcbe-edit
 A web-app-like interactive tool edditing minecraft bedrock world on Google Colab.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
+You can edit minecraft bedrock world data via google colab.
+A few experimental functions are provided at this moment.
++ Delete pending ticks records.
++ Delete remote players' data.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/obscraft23/ipy-mcbe-edit/blob/master/mcberepair_wrapper.ipynb) (English)
